@@ -1,5 +1,5 @@
 {
     "name": "dbseeder",
     "compatibility_date": "2025-04-18",
-    "main": "./src/index.ts"
+    "main": "./src/main.js"
 }
