@@ -148,9 +148,9 @@
                         />
                     </label>
                 </div>
-                <div class="mb-4">
+                <div class="mb-4 opacity-40">
                     <div class="text-slate-500 pb-1 text-sm">
-                        Authentication Token (optional)
+                        Authentication Token (coming soon)
                     </div>
                     <label class="input w-full">
                         <span class="label">
@@ -158,7 +158,7 @@
                         </span>
                         <input
                             type="text"
-                            disabled={!!client}
+                            disabled={true}
                             placeholder="Bearer ..."
                         />
                     </label>
